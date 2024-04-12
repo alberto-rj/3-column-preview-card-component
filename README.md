@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-card-component-using-css-grid-NSyh-MW4tu)
+- [Live Site](https://alberto-rj.github.io/3-column-preview-card-component/)
 
 ## My process
 
